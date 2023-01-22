@@ -2,7 +2,7 @@
 ## 8821au ( 8821au.ko ) :rocket:
 
 ## Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets
-
+## Download stable Release for all files >!
 - v5.12.5.2 (Realtek) (20210708) plus updates from the Linux community
 
 Note: Please read "supported-device-IDs" for information about how to
