@@ -1,6 +1,6 @@
 ## TP-Link AC600 DRIVER FOR LINUX
 
-## Download Release files >!
+
 
 
 ## 8821au ( 8821au.ko ) :rocket:
