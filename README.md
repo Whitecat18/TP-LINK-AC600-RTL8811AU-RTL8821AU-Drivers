@@ -1,13 +1,17 @@
 # TP-Link AC600 DRIVER FOR LINUX
-## PLEASE NOTE THAT [ DOWNLOAD FILES FROM RELEASES ] . TO WOKR PERFECT
+## PLEASE NOTE THAT [ DOWNLOAD FILES FROM <a href="https://github.com/Whitecat18/TP-LINK-AC600-RTL8811AU-RTL8821AU-Drivers/releases/tag/TPAC600" > RELEASES </a> ] . TO WOKR PERFECT
 
+<img src="https://github.com/Whitecat18/TP-LINK-AC600-RTL8811AU-RTL8821AU-Drivers/assets/96696929/c98d1577-b4f9-4fc8-95ad-b97ddbe4da6d" height=350 />
 
 
 ## 8821au ( 8821au.ko ) :rocket:
 
 ## Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets
 ## Download stable Release for all files >!
+**Thanks to <a href="https://github.com/morrownr/8821au" >morrownr</a>**
 - v5.12.5.2 (Realtek) (20210708) plus updates from the Linux community
+
+
 
 Note: Please read "supported-device-IDs" for information about how to
 confirm that this is the correct driver for your adapter.
